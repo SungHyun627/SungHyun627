@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungHyun627&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungHyun627&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## [📎 포트폴리오 및 학습내용 정리](https://accidental-methane-ebf.notion.site/373ba60ffe2e4a7997ef2cb226a7b148?pvs=4)
