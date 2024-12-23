@@ -9,7 +9,7 @@
 - 뱀을 컨트롤하여 점수를 획득하는 게임, JS-SnakeGame(2022. 10 ~ 2022. 12) - [Repository](https://github.com/SungHyun627/JS-SnakeGame), [WebSite](https://sunghyun627.github.io/JS-SnakeGame/)
 
 ### ✨ Activities
-- 글또 10기 (2024)
+- 글또 10기 (2024. 10 ~)
 - 타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) 1기(2023. 11 ~ 2024. 05)
 - 네이버 커넥트 부스트캠프 웹/모바일 8기 챌린지(2023. 07 ~ 2023. 08)
 
