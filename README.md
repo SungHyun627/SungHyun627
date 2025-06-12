@@ -4,7 +4,7 @@
 
 ### ✨ Projects
 - 빵 알림 서비스, 빵잇나우(2024. 12 ~ 2025.05) - [docs](https://docs.breaditnow.com/), [FE Repository](https://github.com/Bread-it-now/BreadItNow_FE) 
-- 스터디 매칭 플랫폼 서비스, Ludo(2023. 12 ~ 2024. 09) - [Repository](https://github.com/Ludo-SMP/ludo), [FE Repository](https://github.com/Ludo-SMP/ludo-frontend), [WebSite](https://ludo.study/)
+- 스터디 매칭 플랫폼 서비스, Ludo(2023. 12 ~ 2024. 09) - [Repository](https://github.com/Ludo-SMP/ludo), [FE Repository](https://github.com/Ludo-SMP/ludo-frontend)
 - 밸런스게임 서비스, BalanceTalk(2024. 01 ~ 2024. 04) - [FE Repository](https://github.com/JECT-Study/PICK-O-Client)
 - 개인의 성장 목표를 관리하고 성취하는 퀘스트 기반 플랫폼, Ingame(2024. 04 ~ 2024. 05) - [Repository](https://github.com/ingame-app/ingame)
 - 뱀을 컨트롤하여 점수를 획득하는 게임, JS-SnakeGame(2022. 10 ~ 2022. 12) - [Repository](https://github.com/SungHyun627/JS-SnakeGame), [WebSite](https://sunghyun627.github.io/JS-SnakeGame/)
