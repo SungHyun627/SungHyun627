@@ -1,7 +1,5 @@
 ### 🙏 안녕하세요, 프론트엔드 개발자 김성현입니다.
 
-### ✨ [포트폴리오](https://github.com/user-attachments/files/20073662/default.pdf)
-
 ### ✨ Projects
 - 빵 알림 서비스, 빵잇나우(2024. 12 ~ 2025.05) - [docs](https://docs.breaditnow.com/), [FE Repository](https://github.com/Bread-it-now/BreadItNow_FE) 
 - 스터디 매칭 플랫폼 서비스, Ludo(2023. 12 ~ 2024. 09) - [Repository](https://github.com/Ludo-SMP/ludo), [FE Repository](https://github.com/Ludo-SMP/ludo-frontend)
