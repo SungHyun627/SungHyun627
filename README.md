@@ -16,6 +16,14 @@
 ### ✨ Educations
 - 성균관대학교(2014.03 ~ 2021.08), 주전공(기계공학)/복수전공(컴퓨터공학)
 
+### ✨ Open Source Contributions
+<a href="https://github.com/typescript-eslint/typescript-eslint">
+  <img height="24px" src="https://img.shields.io/badge/typescript--eslint-eslint--plugin-3178C6?style=flat-round&logo=typescript&logoColor=white" />
+</a>
+
+- [fix(eslint-plugin): [no-useless-default-assignment] fix false positive for parameters corresponding to a rest parameter](https://github.com/typescript-eslint/typescript-eslint/pull/11916)
+
+
 ### ✨ Posts
 - [Lighthouse를 활용한 성능 개선기](https://github.com/The-Memory-Of-Developer/dev-study/blob/main/projects/ludo/Lighthouse%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%B1%EB%8A%A5%20%EA%B0%9C%EC%84%A0%EA%B8%B0.md)
 - [Lighthouse CI를 활용한 웹 성능 측정 자동화 환경 구축기](https://github.com/The-Memory-Of-Developer/dev-study/blob/main/projects/ludo/Lighthouse%20CI%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9B%B9%20%EC%84%B1%EB%8A%A5%20%EC%B8%A1%EC%A0%95%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%EA%B8%B0.md)
