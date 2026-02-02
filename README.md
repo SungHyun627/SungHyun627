@@ -23,6 +23,7 @@
 </a>
 
 - [fix(eslint-plugin): [no-useless-default-assignment] fix false positive for parameters corresponding to a rest parameter](https://github.com/typescript-eslint/typescript-eslint/pull/11916)
+- [fix(eslint-plugin): [no-useless-default-assignment] report unnecessary defaults in ternary expressions](https://github.com/typescript-eslint/typescript-eslint/pull/11984)
 
 
 ### ✨ Posts
