@@ -26,6 +26,13 @@
 - [fix(eslint-plugin): [no-useless-default-assignment] fix false positive for parameters corresponding to a rest parameter](https://github.com/typescript-eslint/typescript-eslint/pull/11916)
 - [fix(eslint-plugin): [no-useless-default-assignment] report unnecessary defaults in ternary expressions](https://github.com/typescript-eslint/typescript-eslint/pull/11984)
 
+<a href="https://github.com/reactjs/ko.react.dev">
+  <img height="24px" src="https://img.shields.io/badge/ko.react.dev-docs-3178C6??style=flat-round&logo=react&logoColor=61DAFB" />
+</a>
+
+- [docs: translate resume and resumeToPipeableStream in react-dom/server](https://github.com/reactjs/ko.react.dev/pull/1468)
+
+
 
 ### ✨ Posts
 - [Lighthouse를 활용한 성능 개선기](https://github.com/The-Memory-Of-Developer/dev-study/blob/main/projects/ludo/Lighthouse%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%B1%EB%8A%A5%20%EA%B0%9C%EC%84%A0%EA%B8%B0.md)
