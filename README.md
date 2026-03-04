@@ -1,6 +1,7 @@
 ### 🙏 안녕하세요, 프론트엔드 개발자 김성현입니다.
 
 ### ✨ Projects
+- 직장인 멘탈케어 서비스, KKEBI - 상담센터 앱(2026. 01 ~)
 - 빵 알림 서비스, 빵잇나우(2024. 12 ~ 2025.05) - [docs](https://docs.breaditnow.com/), [FE Repository](https://github.com/Bread-it-now/BreadItNow_FE) 
 - 스터디 매칭 플랫폼 서비스, Ludo(2023. 12 ~ 2024. 09) - [Repository](https://github.com/Ludo-SMP/ludo), [FE Repository](https://github.com/Ludo-SMP/ludo-frontend)
 - 밸런스게임 서비스, BalanceTalk(2024. 01 ~ 2024. 04) - [FE Repository](https://github.com/JECT-Study/PICK-O-Client)
@@ -19,6 +20,8 @@
 - 성균관대학교(2014.03 ~ 2021.08), 주전공(기계공학)/복수전공(컴퓨터공학)
 
 ### ✨ Open Source Contributions
+
+#### Merged
 <a href="https://github.com/typescript-eslint/typescript-eslint">
   <img height="24px" src="https://img.shields.io/badge/typescript--eslint-eslint--plugin-3178C6?style=flat-round&logo=typescript&logoColor=white" />
 </a>
@@ -32,7 +35,15 @@
 
 - [docs: translate resume and resumeToPipeableStream in react-dom/server](https://github.com/reactjs/ko.react.dev/pull/1468)
 
+#### In Review
 
+<a href="https://github.com/typescript-eslint/typescript-eslint">
+  <img height="24px" src="https://img.shields.io/badge/typescript--eslint-eslint--plugin-3178C6?style=flat-round&logo=typescript&logoColor=white" />
+</a>
+
+- [fix(eslint-plugin): [array-type] ignore Array and ReadonlyArray without type arguments](https://github.com/typescript-eslint/typescript-eslint/pull/11971)
+- [fix(eslint-plugin): [prefer-promise-reject-errors] add allow TypeOrValueSpecifier to prefer-promise-reject-errors
+](https://github.com/typescript-eslint/typescript-eslint/pull/12094)
 
 ### ✨ Posts
 - [Lighthouse를 활용한 성능 개선기](https://github.com/The-Memory-Of-Developer/dev-study/blob/main/projects/ludo/Lighthouse%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%B1%EB%8A%A5%20%EA%B0%9C%EC%84%A0%EA%B8%B0.md)
