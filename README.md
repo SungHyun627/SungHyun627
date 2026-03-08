@@ -28,6 +28,8 @@
 
 - [fix(eslint-plugin): [no-useless-default-assignment] fix false positive for parameters corresponding to a rest parameter](https://github.com/typescript-eslint/typescript-eslint/pull/11916)
 - [fix(eslint-plugin): [no-useless-default-assignment] report unnecessary defaults in ternary expressions](https://github.com/typescript-eslint/typescript-eslint/pull/11984)
+- [fix(eslint-plugin): [prefer-promise-reject-errors] add allow TypeOrValueSpecifier to prefer-promise-reject-errors
+](https://github.com/typescript-eslint/typescript-eslint/pull/12094)
 
 <a href="https://github.com/reactjs/ko.react.dev">
   <img height="24px" src="https://img.shields.io/badge/ko.react.dev-docs-3178C6??style=flat-round&logo=react&logoColor=61DAFB" />
@@ -42,8 +44,6 @@
 </a>
 
 - [fix(eslint-plugin): [array-type] ignore Array and ReadonlyArray without type arguments](https://github.com/typescript-eslint/typescript-eslint/pull/11971)
-- [fix(eslint-plugin): [prefer-promise-reject-errors] add allow TypeOrValueSpecifier to prefer-promise-reject-errors
-](https://github.com/typescript-eslint/typescript-eslint/pull/12094)
 
 ### ✨ Posts
 - [Lighthouse를 활용한 성능 개선기](https://github.com/The-Memory-Of-Developer/dev-study/blob/main/projects/ludo/Lighthouse%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%B1%EB%8A%A5%20%EA%B0%9C%EC%84%A0%EA%B8%B0.md)
