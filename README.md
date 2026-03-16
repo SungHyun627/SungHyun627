@@ -1,7 +1,7 @@
 ### 🙏 안녕하세요, 프론트엔드 개발자 김성현입니다.
 
 ### ✨ Projects
-- 직장인 멘탈케어 서비스, KKEBI Clinic - 상담사가 내담자 상태/위험 신호/세션 자동기록을 한 곳에서 보고, 세션 기록과 리포트를 생성·관리하는 상담사 전용 포털(2026. 01 ~ 2026. 03)
+- 내담자의 상태, 세션 기록과 리포트를 생성·관리하는 상담사 전용 포털, KKEBI Clinic(2026. 01 ~ 2026. 03)
 - 빵 알림 서비스, 빵잇나우(2024. 12 ~ 2025.05) - [docs](https://docs.breaditnow.com/), [FE Repository](https://github.com/Bread-it-now/BreadItNow_FE) 
 - 스터디 매칭 플랫폼 서비스, Ludo(2023. 12 ~ 2024. 09) - [Repository](https://github.com/Ludo-SMP/ludo), [FE Repository](https://github.com/Ludo-SMP/ludo-frontend)
 - 밸런스게임 서비스, BalanceTalk(2024. 01 ~ 2024. 04) - [FE Repository](https://github.com/JECT-Study/PICK-O-Client)
